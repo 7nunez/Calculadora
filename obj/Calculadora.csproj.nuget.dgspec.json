@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\prepa\\Desktop\\José Antônio Nunes\\Calculadora\\Calculadora.csproj": {}
+    "C:\\Users\\prepa\\Desktop\\Jose Antonio\\Calculadora\\Calculadora.csproj": {}
   },
   "projects": {
-    "C:\\Users\\prepa\\Desktop\\José Antônio Nunes\\Calculadora\\Calculadora.csproj": {
+    "C:\\Users\\prepa\\Desktop\\Jose Antonio\\Calculadora\\Calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\prepa\\Desktop\\José Antônio Nunes\\Calculadora\\Calculadora.csproj",
+        "projectUniqueName": "C:\\Users\\prepa\\Desktop\\Jose Antonio\\Calculadora\\Calculadora.csproj",
         "projectName": "Calculadora",
-        "projectPath": "C:\\Users\\prepa\\Desktop\\José Antônio Nunes\\Calculadora\\Calculadora.csproj",
+        "projectPath": "C:\\Users\\prepa\\Desktop\\Jose Antonio\\Calculadora\\Calculadora.csproj",
         "packagesPath": "C:\\Users\\prepa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\prepa\\Desktop\\José Antônio Nunes\\Calculadora\\obj\\",
+        "outputPath": "C:\\Users\\prepa\\Desktop\\Jose Antonio\\Calculadora\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\prepa\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
